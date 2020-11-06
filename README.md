@@ -2,6 +2,11 @@
 Final project for Machine Learning Using R course at UCLA Extension, completed as part of Data Science certification. 
 
 ## Table of Contents
+* [Summary](#summary)
+* [Data](#data)
+* [Exploring Models](#exploring-models)
+* [Results](#results)
+* [Conclusions](#conclusions)
 
 ## Summary
 In this project, I analyzed a dataset collected on voting information from the US Presidential Primary election in 2016, compiled by Kaggle co-founder Ben Hamner, which can be found online [here](https://www.kaggle.com/benhamner/2016-us-election/). My goal was to explore machine learning models to find which would best be able to predict a candidate winning in an election, based on demographic data. This is a classification problem, as it is attempting to predict a label- in this case, the name of a candidate that will win in a given county. However, it could also alternatively have been framed as a regression problem, attempting to predict the number of votes a candidate will gain.
